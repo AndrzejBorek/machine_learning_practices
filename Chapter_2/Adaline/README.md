@@ -1,0 +1,1 @@
+Implementation of the Adaline algorithm on data from Iris dataset.
