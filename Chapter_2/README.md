@@ -1,0 +1,1 @@
+Chapter in which some simple classificators were defined.
